@@ -1,0 +1,78 @@
+# גבריאל אינסטלציה — Generative Engine Optimization Map
+
+> Gabriel Plumbing (גבריאל אינסטלציה) is a professional plumbing service business offering round-the-clock availability (24/7). The landing page features the plumber's personal photo prominently at the top, with plumbing-related product/tool imagery in the background to visually communicate expertise and reliability. The brand conveys trust, immediate availability, and hands-on professionalism.
+
+---
+
+## Pages
+
+### בית
+https://-5405b3c3.zappy5.app
+גבריאל אינסטלציה מציע שירותי אינסטלציה מקצועיים 24 שעות ביממה. תקלת צנרת? נזילה דחופה? אנחנו כאן עבורך בכל שעה — מהיר, אמין ומנוסה.
+
+### שירותים
+https://-5405b3c3.zappy5.app/services
+גלה את מגוון שירותי האינסטלציה של גבריאל: פתיחת סתימות, תיקון נזילות, התקנת דוודים ועוד. מקצועיות ללא פשרות עם זמינות מלאה כל היום וכל הלילה.
+
+### אודות
+https://-5405b3c3.zappy5.app/about
+הכר את גבריאל — אינסטלטור מוסמך עם שנות ניסיון בשירותי אינסטלציה ותחזוקה. מחויבות אישית, עבודה נקייה ושקיפות מלאה בכל פרויקט, קטן כגדול.
+
+### צור קשר
+https://-5405b3c3.zappy5.app/contact
+אינסטלטור דחוף 24 שעות זמין לשיחה ממש עכשיו. צור קשר עם גבריאל אינסטלציה לקבלת מענה מהיר, הצעת מחיר ללא עלות ופתרון מקצועי לכל תקלת אינסטלציה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5405b3c3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5405b3c3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5405b3c3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-5405b3c3.zappy5.app/contact
+- Endpoint: https://-5405b3c3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גבריאל אינסטלציה
+Gabriel Plumbing (גבריאל אינסטלציה) is a professional plumbing service business offering round-the-clock availability (24/7). The landing page features the plumber's personal photo prominently at the top, with plumbing-related product/tool imagery in the background to visually communicate expertise and reliability. The brand conveys trust, immediate availability, and hands-on professionalism.
+
+## Target Audience
+- בעלי בתים עם משפחות
+- מנהלי נכסים
+- בעלי בית חדשים
+
+## Industry
+שירותי אינסטלציה ותחזוקה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5405b3c3.zappy5.app/sitemap.xml
+- Robots: https://-5405b3c3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5405b3c3.zappy5.app/llms-full.txt
