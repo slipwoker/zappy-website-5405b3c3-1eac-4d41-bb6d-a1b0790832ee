@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-5405b3c3.zappy5.app
+https://example.com
 גבריאל אינסטלציה מציע שירותי אינסטלציה מקצועיים 24 שעות ביממה. תקלת צנרת? נזילה דחופה? אנחנו כאן עבורך בכל שעה — מהיר, אמין ומנוסה.
 
 ### שירותים
-https://-5405b3c3.zappy5.app/services
+https://example.com/services
 גלה את מגוון שירותי האינסטלציה של גבריאל: פתיחת סתימות, תיקון נזילות, התקנת דוודים ועוד. מקצועיות ללא פשרות עם זמינות מלאה כל היום וכל הלילה.
 
 ### אודות
-https://-5405b3c3.zappy5.app/about
+https://example.com/about
 הכר את גבריאל — אינסטלטור מוסמך עם שנות ניסיון בשירותי אינסטלציה ותחזוקה. מחויבות אישית, עבודה נקייה ושקיפות מלאה בכל פרויקט, קטן כגדול.
 
 ### צור קשר
-https://-5405b3c3.zappy5.app/contact
+https://example.com/contact
 אינסטלטור דחוף 24 שעות זמין לשיחה ממש עכשיו. צור קשר עם גבריאל אינסטלציה לקבלת מענה מהיר, הצעת מחיר ללא עלות ופתרון מקצועי לכל תקלת אינסטלציה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5405b3c3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5405b3c3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5405b3c3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-5405b3c3.zappy5.app/contact
-- Endpoint: https://-5405b3c3.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Gabriel Plumbing (גבריאל אינסטלציה) is a professional plumbing se
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5405b3c3.zappy5.app/sitemap.xml
-- Robots: https://-5405b3c3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5405b3c3.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
